@@ -1,4 +1,7 @@
 Healthcare-chatbot
+
+The Symptom-Based Medicine Suggestion Chatbot is designed to assist users in managing their health by providing timely and accurate recommendations. The chatbot analyzes user-reported symptoms to suggest appropriate over-the-counter or prescription medications. Additionally, it offers preliminary diagnoses, potential causes for the symptoms, and recommendations for treatment.
+
 ![Screenshot (249)](https://github.com/user-attachments/assets/fb881c43-5a86-4f43-b2f4-8582ec0395bb)
 ![Screenshot (250)](https://github.com/user-attachments/assets/da980e65-3090-406f-8fd7-a61ec915936b)
 ![Screenshot (251)](https://github.com/user-attachments/assets/1117e78e-4946-46b6-9287-cba906ca33fb)
